@@ -8,13 +8,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-Statistics-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
----
-
-## 🖼️ Dashboard Preview
-
-![Vendor Performance Dashboard](./assets/dashboard_preview.png)
-
-> *Dark-themed Power BI dashboard — 7 interactive visuals, 4 KPI cards, full horizontal layout*
 
 ---
 
@@ -204,8 +197,8 @@ Results:
 B.Tech Computer Science Engineering | Chandigarh University — Batch 2021–2025
 CGPA: 8.2 | Specialization: Data Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gunjan-543903230/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/Poet19)
 
 ---
 
